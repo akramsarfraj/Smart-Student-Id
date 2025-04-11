@@ -4,6 +4,9 @@
   It has a simple UI for generating the Smart student ID just you
   have give details  of student like Name ,Class , Photo , etc.
 
+### Live Project Link
+https://smart-student-id.netlify.app/
+
 # Dependencies Use
   qrcode.react -- to generate QR Code.
   
