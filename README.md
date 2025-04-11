@@ -7,6 +7,9 @@
 ### Live Project Link
 https://smart-student-id.netlify.app/
 
+### Replit link
+https://replit.com/@sarfrazakram28/Smart-Student-Id?v=1
+
 # Dependencies Use
   qrcode.react -- to generate QR Code.
   
